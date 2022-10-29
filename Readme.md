@@ -34,7 +34,7 @@ Javascript, HTML, CSS...
 
 
 ## 🔗 Links
-[![portfolio](https://replit.com/@OmololaAkande/HTML-and-CSS#index.html)](https://replit.com/)
-[![linkedin](www.linkedin.com/in/omolola-akande-b4b340146)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@OmololaAkande/HTML-and-CSS#index.html)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omolola-akande-b4b340146/)
 
 
